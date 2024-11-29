@@ -1,0 +1,13 @@
+.rasa/
+
+models/
+
+credentials.yml
+endpoints.yml
+
+*.pyc
+__pycache__/
+
+*.pkl
+
+*.log
